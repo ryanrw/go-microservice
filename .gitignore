@@ -1,8 +1,12 @@
 **/.idea
 **/.DS_Store
+**/db-data
 
 # broker app
 broker-service/brokerApp
 
 # frontend app
 front-end/frontApp
+
+# auth app
+authentication-service/authApp
