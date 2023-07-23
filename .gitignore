@@ -10,3 +10,6 @@ front-end/frontApp
 
 # auth app
 authentication-service/authApp
+
+# log service
+logger-service/loggerServiceApp
