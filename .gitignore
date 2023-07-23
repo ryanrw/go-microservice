@@ -13,3 +13,6 @@ authentication-service/authApp
 
 # log service
 logger-service/loggerServiceApp
+
+# mail service
+mail-service/mailerApp
