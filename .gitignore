@@ -16,3 +16,6 @@ logger-service/loggerServiceApp
 
 # mail service
 mail-service/mailerApp
+
+# listener service
+listener-service/listenerApp
